@@ -1,0 +1,19 @@
+{
+  "name": "yt-blockchain",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Azaustre <cazaustre@gmail.com> (https://youtube.com/carlosazaustre)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.3",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.3",
+    "hex2ascii": "^0.0.3"
+  }
+}
